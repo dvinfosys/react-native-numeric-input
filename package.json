@@ -1,6 +1,6 @@
 {
-  "name": "react-native-numeric-input",
-  "version": "1.9.1",
+  "name": "rn-numeric-input",
+  "version": "0.0.1",
   "description": "a stylish numeric input for react native",
   "main": "index.js",
   "scripts": {
@@ -21,16 +21,16 @@
     "numeric"
   ],
   "author": {
-    "name": "omri himelbrand",
-    "email": "himelbrand@gmail.com"
+    "name": "DV Infosys",
+    "email": "dvinfosys0@gmail.com"
   },
-  "homepage": "https://github.com/himelbrand/react-native-numeric-input",
+  "homepage": "https://github.com/dvinfosys/react-native-numeric-input",
   "bugs": {
-    "url": "https://github.com/himelbrand/react-native-numeric-input/issues"
+    "url": "https://github.com/dvinfosys/react-native-numeric-input/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/himelbrand/react-native-numeric-input.git"
+    "url": "git://github.com/dvinfosys/react-native-numeric-input.git"
   },
   "license": "MIT",
   "dependencies": {
